@@ -22,3 +22,5 @@ The following stretch features are implemented:
 
 Lab Demonstration
  ![Kapture 2026-02-26 at 11 39 21](https://github.com/user-attachments/assets/918efd9e-a878-4860-b12d-85c7c64fc88f)
+
+![Kapture 2026-02-26 at 12 04 26](https://github.com/user-attachments/assets/39b67359-c576-4fd1-9bb4-1b61139140ed)
